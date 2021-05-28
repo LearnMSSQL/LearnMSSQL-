@@ -30,7 +30,7 @@ CREATE TABLE Libros
 GO
 
 /* Listar tablas de la base de datos */
-SELECT * FROM INFORMATION_SCHEMA.TABLES
+SELECT * FROM INFORMATION_SCHEMA.TABLES;
 GO
 
 /* Crear tabla USUARIOS (Lectores) */
